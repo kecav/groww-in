@@ -122,6 +122,7 @@ header {
 }
 
 .rows .card {
+    color: rgba(0,0,0,0.75);
     cursor: pointer;
     font-weight: 500;
     padding: 1rem;
